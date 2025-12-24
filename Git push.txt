@@ -1,5 +1,0 @@
-npm run dev
-
-git add .
-git commit -m "tu mensaje"
-git push
