@@ -1,5 +1,5 @@
 import { useState } from "react"
-import "../styles/gallery.css"
+import "../styles/Gallery.css"
 
 const images = [
   "../images/fotos/1.jpeg",
